@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+transformers
+torch   # (or tensorflow, depending on the Hugging Face model backend)
